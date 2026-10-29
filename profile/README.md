@@ -15,6 +15,7 @@ We build **[DrawOffer](https://www.drawoffer.com)**, an AI resume builder with j
 |---|---|
 | [drawoffer-skills](https://github.com/ql-link/drawoffer-skills) | 简历与求职 Agent Skills，可直接装进 Claude Code：简历诊断、STAR 改写、从资料写简历、简历翻译、面试准备 |
 | [drawoffer-prompts](https://github.com/ql-link/drawoffer-prompts) | 求职提示词库，复制到任意 AI 助手即用：简历诊断、JD 匹配、面试准备与复盘 |
+| [chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates) | 57 套免费中文简历模板：校招、实习、社招，附预览图与示例数据 |
 
 ### LinkRag 与工具
 
