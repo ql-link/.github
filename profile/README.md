@@ -9,6 +9,15 @@ We build **[DrawOffer](https://www.drawoffer.com)**, an AI resume builder with j
 
 ## 开源项目 · Open source
 
+### DrawOffer 职绘
+
+| 仓库 | 说明 |
+|---|---|
+| [drawoffer-skills](https://github.com/ql-link/drawoffer-skills) | 简历与求职 Agent Skills，可直接装进 Claude Code：简历诊断、STAR 改写、从资料写简历、简历翻译、面试准备 |
+| [drawoffer-prompts](https://github.com/ql-link/drawoffer-prompts) | 求职提示词库，复制到任意 AI 助手即用：简历诊断、JD 匹配、面试准备与复盘 |
+
+### LinkRag 与工具
+
 | 仓库 | 说明 |
 |---|---|
 | [LinkRag](https://github.com/ql-link/LinkRag) | Python RAG 服务：文档解析、分片、向量化、索引与召回 |
